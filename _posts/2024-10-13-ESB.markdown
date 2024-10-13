@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Enterprise Service Bus dan Pemanfaatannya"
+date:   2024-10-13 12:32:10 +0700
+categories: tech-development
+---
+# Ikhtisar
+Enterprise Service Bus (ESB) adalah sebuah tool berbentuk model arsitektur yang mengorkestrasi service-service yang saling berhubungan sehingga dataflow dapat berjalan secara seamless dan scallable.
+
+# Core Concept
+ESB pada dasarnya berperan sebagai fasilitatordalam komunikasi data antar service dan aplikasi melalui protokol-protokol yang sudah lumrah (contoh: JSON, SOAP, dll). Bedanya, dalam ESB sudah tidak ada lagi komunikasi point-to-point atau hubungan sender-receiver. Tiap-tiap service yang terhubung tinggal menerima dan memproses data secara independen.
+
+ESB mengorkestrasi interaksi antar service dan aplikasi walaupun tiap-tiap service tersebut memiliki protokol yang berbeda-beda. ESB juga mampu mentransformasikan data ke bentuk lain sesuai protokol dan payload request / format service penerima.
+
+# Fitur
+Fitur-fitur ESB antara lain dapat dijabarkan seperti berikut (list ini hanya memuat beberapa fitur yang menurut saya menarik).
+
+Service orchestration, message routing & transformation. Seperti yang sudah diceritakan diatas, ESB dapat mengorkestrasikan service-service dengan protokol dan format request yang berbeda-beda. ESB yang akan melakukan message routing & transformation.
+
+Transaction management. Konsitensi adalah hal yang sangat penting. Transaction management dapat berguna untuk melakukan rollback apabila terjadi suatu hal pada sistem. ESB mendukung konsep distributed transaction dengan 2PC yang memastikan semua bagian dari transaction untuk sepakat untuk commit atau rollback.
+
+Monitoring. ESB punya logging yang real-time dan mengungkap semua event yang terjadi didalam sistem.
+
