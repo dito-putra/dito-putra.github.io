@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Inisiatif dan Passion dan Keterkaitannya Dengan Profesionalisme"
-date:   2024-10-13 12:47:10 +0700
+date:   2024-10-14 12:47:10 +0700
 categories: self-development
 ---
 Inisiatif dan passion merupakan sifat-sifat penting dalam dunia pekerjaan. Inisiatif dapat diartikan sebagai keinginan untuk terus berkembang atau kemampuan untuk mengambil tindakan nyata untuk menyelesaikan masalah atau mengambil peluang. Passion dapat diartikan sebagai minat yang kuat, motivasi dan antusiasme untuk mencapai standar kinerja yang tinggi.
