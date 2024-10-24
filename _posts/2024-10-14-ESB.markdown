@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Enterprise Service Bus dan Pemanfaatannya"
-date:   2024-10-13 12:32:10 +0700
+date:   2024-10-14 12:32:10 +0700
 categories: tech-development
 ---
 # Ikhtisar
