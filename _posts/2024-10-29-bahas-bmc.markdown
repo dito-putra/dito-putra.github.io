@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Bahas Business Model Canvas"
+date:   2024-10-28 22:20:10 +0700
+categories: marketing
+---
+Sering tidak, ketemu sebuah perusahaan yang produknya itu seperti solusi yang mencari masalah untuk dipecahkan?. Biasanya produk-produk yang bentuknya aplikasi mobile _nih_ sering _banget kayak gini_. Rasanya seperti terbalik, sebuah perusahaan dan produknya harusnya menjadi solusi bagi permasalah yang ada dihadapi masyarakat. Ketika kita sednag merancang suatu usaha atau produk, agar tidak jatuh ke lubang yang ini, bisa memanfaatkan sebuah alat yang bernama Business Model Canvas.
+## Business Model Canvas
