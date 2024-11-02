@@ -1,8 +1,34 @@
 ---
 layout: post
 title:  "Bahas Business Model Canvas"
-date:   2024-10-28 22:20:10 +0700
+date:   2024-10-29 22:20:10 +0700
 categories: marketing
 ---
-Sering tidak, ketemu sebuah perusahaan yang produknya itu seperti solusi yang mencari masalah untuk dipecahkan?. Biasanya produk-produk yang bentuknya aplikasi mobile _nih_ sering _banget kayak gini_. Rasanya seperti terbalik, sebuah perusahaan dan produknya harusnya menjadi solusi bagi permasalah yang ada dihadapi masyarakat. Ketika kita sednag merancang suatu usaha atau produk, agar tidak jatuh ke lubang yang ini, bisa memanfaatkan sebuah alat yang bernama Business Model Canvas.
+Sering _gak sih_, ketemu sebuah perusahaan yang produknya itu seperti solusi yang mencari masalah untuk dipecahkan?. Biasanya produk-produk yang bentuknya aplikasi mobile _nih_ sering _banget kayak gini_. Rasanya seperti terbalik, sebuah perusahaan dan produknya harusnya menjadi solusi bagi permasalah yang ada dihadapi masyarakat. Ketika kita sednag merancang suatu usaha atau produk, agar tidak jatuh ke lubang yang ini, bisa memanfaatkan sebuah alat yang bernama Business Model Canvas.
 ## Business Model Canvas
+Secara definisi, BMC (Business Model Canvas) itu sebuah gambar diagram yang terdiri dari 9 elemen (nanti dijelaskan). Diagram ini dibuat untuk membantu pebisnis untuk memetakan dan menceritakan aspek-aspek paling penting dari bisnis atau produk yang akan dijalankan agar lebih terjabarkan dengan jelas dan mudah dipahami bahkan oleh orang lain. Contoh bentuknya seperti ini. (contoh ini kasus toko kue)
+
+![bmc](/images/posts/contoh-bmc.png)
+
+### Komponen BMC
+Melihat contoh diatas, BMC punya 9 komponen. Sesuai urutan pengisiannya adalah sebagai berikut.
+#### Customer Segments
+Komponen ini diisi dengan target pelanggan yang disasar oleh bisnis atau produknya. Contoh untuk toko kue adalah semua orang dari anak-anak, remaja dan dewasa.
+#### Value Proposition
+_Sebenarnya apa sih_ value yang ditawarkan bisnis atau produknya? hal itu diisi di komponen ini. Contoh untuk toko kue adalah cita rasa yang unik dan berbeda. Bisa juga diisi dengan menu kombinasi atau custom yang tidak ada di toko kue lain.
+#### Channels
+Channels yang dimaksud disini adalah channel penjualan, alias customer bisa beli lewat mana. Contoh untuk toko kue adalah direct selling, alias pembeli langsung beli di toko. Contoh lain bisa diisi aplikasi e-commerce, website, Ojek Online, dan lain-lain.
+#### Customer Relationship
+Komponen ini mirip-mirip dengan valie proposition tapi lebih ke sisi pelayanan customernya ya. Contoh untuk toko kue adalah pelayanan yang ramah, atau pelanggan bisa request kue sesuai selera lewat pelayan, dan lain-lain. Intinya hal-hal yang membuat customer itu nyaman dengan pelayanan kita saat mereka membeli produk atau menggunakan jasa kita.
+#### Revenue Streams
+Ini sih, gampang ya. Diisi dengan sumber pendapatan bisnisnya. Kalau dari contoh toko kue, tentu saja dari hasil jualan kuenya langsung ke pembeli.
+#### Key Resources
+Komponen ini diisi dengan semua sumber daya yang digunakan dan terlibat dalam bisnis atau produk. Mulai dari bahan baku, sampai ke personel/karyawan. Di contoh toko kue, key resources diisi dengan bahan kue, peralatan, juru masak, dan SDM lain seperti kasir, trainee toko dan lain-lain.
+#### Key Activities
+Ini adalah aktifitas inti yang dilakukan oleh bisnis. Sederhananya, kegiatan apa yang dilakukan mulai dari produksi sampai ke tangan pembeli. Contoh toko kue adalah membuat kue dan memasarkannya. Key activities bisa diisi lebih detail.
+#### Key Partners
+Semua stakeholder yang berhubungan dengan bisnis, mulai dari pemasok bahan baku, distributor, gudang dan lainnya semua dituliskan disini.
+#### Cost Structures
+Disini ditulis semua pengeluaran saat melakukan aktifitas bisnis. Contoh toko kue adalah bahan baku, bahan bakar gas, bisa juga ditambah gaji pegawai, sewa toko dan lain-lain
+
+Dengan BMC, bisnis akan lebih terencana karena semua komponen bisnisnya jelas tertulis dan tidak ada yang sebatas mengira-ngira di kepala lagi. Saat sedang menyusun BMC juga akan terkuak, sebenarnya bisnis atau produk yang kita rencanakan itu benar-benar menjadi solusi bagi masalah masyarakat atau justru kebalikannya, solusi yang mencari masalah untuk dipecahkan. Terutama saat mengisi value proposition, key activities, dan customer segments, kita bisa sambil menghubungkan ketiga komponen ini untuk menguak hal tersebut.
